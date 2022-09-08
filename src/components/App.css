@@ -1,0 +1,44 @@
+/* Styles go here */
+
+.compbox{
+    border: .7vw solid black;
+    border-radius: 3vh;
+    padding: 1vh;
+    margin: 2vh;
+    width: 40vw;
+    height: 70vh;
+    color: azure;
+    background-color: rgb(30, 123, 20);
+    align-content: center;
+    text-align: center;
+}
+
+.layout{
+    margin-top: 50px;
+    width: 100vw;
+    align-content: center;
+}
+
+.comp-font-sizer{
+    font-size: calc(1vw + 10px);
+}
+
+.comp-head-sizer{
+    font-size: 3vw;
+}
+
+.inputbtn {
+    color: black;
+    background-color: blue; 
+    width: 12vw;
+    text-align: center; 
+    font-size: 1.7vw;
+    border-radius: 4px;
+}
+
+
+.flexit{
+    display: flex;
+    align-content: center;
+    text-align: center;
+}
